@@ -14,7 +14,3 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Ignore other specific files
-handTrackingModule.py
-HM.py
-Medipipe_hand_gestures.py
